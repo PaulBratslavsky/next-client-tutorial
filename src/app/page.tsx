@@ -1,10 +1,7 @@
-import { Button } from "@/components/ui/button";
-
-export default function Home() {
+export default function HomeRoute() {
   return (
     <div className="container mx-auto">
       <h1>Home</h1>
-      <Button>Click me</Button>
     </div>
   );
 }

@@ -1,7 +1,7 @@
-export default function AboutRoute() {
+export default function BlogRoute() {
   return (
     <div className="container mx-auto">
-    <h1>About</h1>
+    <h1>Blog</h1>
   </div>
   )
 }
